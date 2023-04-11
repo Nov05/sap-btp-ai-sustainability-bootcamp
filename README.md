@@ -1,6 +1,7 @@
-** Course completed**
+**Course completed**  
 :point_right: [See my certificate](https://open.sap.com/verify/xecer-vityh-pyvek-zezaz-rygal)   
 
+<vline>  
 
 [![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/btp-ai-sustainability-bootcamp)](https://api.reuse.software/info/github.com/sap-samples/btp-ai-sustainability-bootcamp)
 
