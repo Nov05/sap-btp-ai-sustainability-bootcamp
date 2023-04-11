@@ -2,6 +2,8 @@
 :point_right: [See my certificate](https://open.sap.com/verify/xecer-vityh-pyvek-zezaz-rygal)   
 <img src="https://raw.githubusercontent.com/Nov05/pictures/master/repos/sap-btp-ai-sustainability-bootcamp/sustai1_open_badge.png">  
 
+:point_right: [Go to the OpenSAP course](https://open.sap.com/courses/sustai1)  
+
 [![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/btp-ai-sustainability-bootcamp)](https://api.reuse.software/info/github.com/sap-samples/btp-ai-sustainability-bootcamp)
 
 # Building Intelligent Scenarios and Sustainability on SAP BTP with SAP AI Core and SAP Analytics Cloud for Planning
