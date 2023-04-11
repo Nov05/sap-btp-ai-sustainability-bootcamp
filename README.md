@@ -1,5 +1,6 @@
-**Course completed**  
+**【Course completed】**  
 :point_right: [See my certificate](https://open.sap.com/verify/xecer-vityh-pyvek-zezaz-rygal)   
+<img src="https://raw.githubusercontent.com/Nov05/pictures/master/repos/sap-btp-ai-sustainability-bootcamp/sustai1_open_badge.png">  
 
 <vline>  
 
